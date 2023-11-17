@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-[![MasterHead](https://www.internships.com/wp-content/uploads/2019/10/Java-interview-wecompress.com_-2048x1365.jpg)](https://www.linkedin.com/in/fatiha-baali/)
 
 <p align="left" width="30%">
-    <img src=""
-        alt="Baalifatiha" />
+ <img src="https://komarev.com/ghpvc/?username=abdellah-belcaid&label=Profile%20views&color=0e75b6&style=flat"alt="Baalifatiha" />
 </p>
 </br>
 
