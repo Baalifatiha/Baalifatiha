@@ -3,7 +3,7 @@
 [![MasterHead](https://www.internships.com/wp-content/uploads/2019/10/Java-interview-wecompress.com_-2048x1365.jpg)](https://www.linkedin.com/in/fatiha-baali/)
 
 <p align="left" width="30%">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simplilearn.com%2Ftop-reasons-to-become-a-full-stack-developer-article&psig=AOvVaw0tlyUhcvzvG4uAyYq9fhsn&ust=1700349333558000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICJrpeVzIIDFQAAAAAdAAAAABAv"
+    <img src=""
         alt="Baalifatiha" />
 </p>
 </br>
