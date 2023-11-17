@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-
 <p align="left" width="100%">
     <img src="https://komarev.com/ghpvc/?username=Baalifatiha&label=Profile%20views&color=0e75b6&style=flat"
         alt="Baalifatiha" />
@@ -9,12 +8,11 @@
 </br>
 
 
-
 </br>
 
 <p align="center" width="100%">
     <a href="https://git.io/typing-svg"><img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=292CF7&background=60ECFF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+abdellah+belcaid;%F0%9F%92%BB++A+software+engineer+from+Morocco+;%F0%9F%93%9A+I'm++a+Master+Student+in+;Information+Systems+Engineering;%F0%9F%9A%80+Seeking+software+development+exprs;%F0%9F%98%84+Explore+%26+Code+%F0%9F%98%84"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=292CF7&background=60ECFF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ait +Baali+Fatiha;%F0%9F%92%BB++A+software+engineer+from+Morocco+;%F0%9F%93%9A+I'm++a+Master+Student+in+;Information+Systems+Engineering;%F0%9F%9A%80+Seeking+software+development+exprs;%F0%9F%98%84+Explore+%26+Code+%F0%9F%98%84"
             alt="Typing SVG" /></a>
 </p>
 </br>
@@ -33,23 +31,17 @@
         <img src="https://img.shields.io/badge/LeetCode-orange.svg?style=for-the-badge&logo=leetcode&logoColor=white"
             alt="LeetCode" style="margin-bottom: 5px;" />
     </a>
-    <a href="https://github.com/abdellah-belcaid/" target="_blank">
+    <a href="https://github.com/Baalifatiha/" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
             alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://twitter.com/Belcaid_AIZEN" target="_blank">
-        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
-            alt=twitter style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/abdellah-belcaid/" target="_blank">
+   
+    <a href="linkedin.com/in/fatiha-baali/" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
             alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.facebook.com/abdallah.belcaid" target="_blank">
-        <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white
-            alt=facebook style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.instagram.com/abdellah_belcaid/" target="_blank">
+   
+    <a href="https://instagram.com/ait.baali.fatiha?igshid=YTQwZjQ0NmI0OA==" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-FF1493.svg?style=for-the-badge&logo=instagram&logoColor=white"
             alt="Instagram" style="margin-bottom: 5px;" />
     </a>
