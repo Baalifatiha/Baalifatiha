@@ -25,23 +25,24 @@
 
 
 </div>
+</div>
 
 <div align="center">
-    <a href="https://leetcode.com/AIZEN001/" target="_blank">
+    <a href="https://linkedin.com/in/fatiha-baali" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-orange.svg?style=for-the-badge&logo=leetcode&logoColor=white"
             alt="LeetCode" style="margin-bottom: 5px;" />
     </a>
-    <a href="https://github.com/Baalifatiha/" target="_blank">
+    <a href="https://github.com/Baalifatiha" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
             alt=github style="margin-bottom: 5px;" />
     </a>
    
-    <a href="linkedin.com/in/fatiha-baali/" target="_blank">
+    <a href="https://linkedin.com/in/fatiha-baali" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
             alt=linkedin style="margin-bottom: 5px;" />
     </a>
    
-    <a href="https://instagram.com/ait.baali.fatiha?igshid=YTQwZjQ0NmI0OA==" target="_blank">
+    <a href="https://www.instagram.com/abdellah_belcaid/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-FF1493.svg?style=for-the-badge&logo=instagram&logoColor=white"
             alt="Instagram" style="margin-bottom: 5px;" />
     </a>
