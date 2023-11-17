@@ -18,35 +18,6 @@
 </br>
 
 
-<div align="center">
-
-
-### Connect with me
-
-
-</div>
-</div>
-
-<div align="center">
-    <a href="https://linkedin.com/in/fatiha-baali" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-orange.svg?style=for-the-badge&logo=leetcode&logoColor=white"
-            alt="LeetCode" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://github.com/Baalifatiha" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
-            alt=github style="margin-bottom: 5px;" />
-    </a>
-   
-    <a href="https://linkedin.com/in/fatiha-baali" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-            alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-   
-    <a href="https://www.instagram.com/abdellah_belcaid/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-FF1493.svg?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="Instagram" style="margin-bottom: 5px;" />
-    </a>
-
 </div>
 
 
@@ -183,11 +154,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdellah-belcaid/](https://github.com/Abdellah-belcaid/)
+- 👨‍💻 All of my projects are available at [https://https://github.com/Baalifatiha/](https://github.com/Baalifatiha/)
 
 - 💬 Ask me about **spring boot , angular , react & next Js**
 
-- 📫 How to reach me **belcaid.abdellah2001@gmial.com**
+- 📫 How to reach me **baalifatiha137@gmial.com**
 
 - 📄 Know about my experiences [https://cvdesignr.com/p/6426fe41c9810](https://cvdesignr.com/p/6426fe41c9810)
 
