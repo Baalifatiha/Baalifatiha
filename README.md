@@ -4,7 +4,7 @@
 
 <p align="left" width="100%">
     <img src="https://komarev.com/ghpvc/?username=abdellah-belcaid&label=Profile%20views&color=0e75b6&style=flat"
-        alt="AIT BAALI FATIHA" />
+        alt="Baalifatiha" />
 </p>
 </br>
 
