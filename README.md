@@ -156,7 +156,7 @@
 
 - 👨‍💻 All of my projects are available at [https://https://github.com/Baalifatiha/](https://github.com/Baalifatiha/)
 
-- 💬 Ask me about **spring boot , angular , react & next Js**
+- 💬 Ask me about **spring boot , angular , react JS & React Native **
 
 - 📫 How to reach me **baalifatiha137@gmial.com**
 
