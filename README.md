@@ -160,54 +160,10 @@
 
 - 📫 How to reach me **baalifatiha137@gmial.com**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/6426fe41c9810](https://cvdesignr.com/p/6426fe41c9810)
+- 📄 Know about my experiences [https://cvdesignr.com/p/65329fbc8843f](https://cvdesignr.com/p/65329fbc8843f)
 
 
 
 </br>
 
- <!-- Github Activities -->
- ## 📈 Github Stats
- 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://streak-stats.demolab.com?user=abdellah-belcaid&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
-        style="max-width: 100%; max-height: 150px;" alt="streak graph" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abdellah-belcaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&order=1"
-        style="max-width: 100%; max-height: 145px;" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-belcaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2"
-        style="max-width: 100%; max-height: 160px;" alt="languages graph" />
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdellah-belcaid&theme=rogue&bg_color=0d1117&border_color=0d1117&hide_border=true&line=18c964&point=403d3d&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    
-</div>
-
-</br>
-
-
- <!-- leetCode Activities -->
- ## 📈 leetCode Stats
- 
-<div align="center"  column; align-items: center;">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=AIZEN001&theme=sky" alt="LeetCode Badges"  height:120px; ">
-    <img src="https://leetcard.jacoblin.cool/AIZEN001?theme=unicorn&ext=activity" alt="LeetCode Card" style="max-width: 100%; max-height: 100%; ">
-</div>
-
-###
-
-![Snake animation](https://github.com/Abdellah-belcaid/abdellah-belcaid/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-<div align="center">
-    <img src="https://profile-counter.glitch.me/Abdellah-belcaid/count.svg?" />
-</div>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/abdellah-belcaid/abdellah-belcaid/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/abdellah-belcaid/abdellah-belcaid/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/abdellah-belcaid/output/github-contribution-grid-snake.svg">
-</picture>
+       
