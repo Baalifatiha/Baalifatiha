@@ -2,7 +2,7 @@
 
 
 <p align="left" width="30%">
- <img src="https://komarev.com/ghpvc/?username=abdellah-belcaid&label=Profile%20views&color=0e75b6&style=flat"alt="Baalifatiha" />
+ <img src="https://komarev.com/ghpvc/?username=Baalifatiha&label=Profile%20views&color=0e75b6&style=flat"alt="Baalifatiha" />
 </p>
 </br>
 
