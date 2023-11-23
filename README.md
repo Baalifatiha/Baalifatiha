@@ -96,7 +96,7 @@
 
 - 📫 How to reach me **baalifatiha137@gmial.com**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/65329fbc8843f](https://cvdesignr.com/p/65329fbc8843f)
+- 📄 Know about my experiences [https://cvdesignr.com/p/655fa32e2b135](https://cvdesignr.com/p/655fa32e2b135)
 
 
 
