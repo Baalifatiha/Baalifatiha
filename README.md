@@ -12,6 +12,7 @@
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=292CF7&background=60ECFF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ait +Baali+Fatiha;%F0%9F%92%BB++A+software+engineer+from+Morocco+;%F0%9F%93%9A+I'm++a+Master+Student+in+;Information+Systems+Engineering;%F0%9F%9A%80+Seeking+software+development+exprs;%F0%9F%98%84+Explore+%26+Code+%F0%9F%98%84"
             alt="Typing SVG" /></a>
 </p>
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,11 +34,7 @@
 </div>
 
 
-<br />
 
-
-
-</br>
 
 
 <h3 align="left">Programming Languages:</h3>
